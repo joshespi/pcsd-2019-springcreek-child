@@ -23,7 +23,7 @@
             <li class="int"><a href="https://springcreek.provo.edu/school-information/school-profile/">School Profile</a></li>
             <li class="int"><a href="https://springcreek.provo.edu/school-information/parent-teacher-association/">Parent Teacher Association</a></li>
             <li class="int"><a href="https://springcreek.provo.edu/school-information/behavior-expectations/">Behavior Expectations</a></li>
-            <li class="int"><a href="https://springcreek.provo.edu/school-information/drop-off-pick-up-procedures/">Drop Off/Pick Up Procedures</a></li>
+            <li class="int"><a href="https://springcreek.provo.edu/school-information/student-drop-off-and-pick-up-procedures/">Student Drop Off and Pick Up Procedures</a></li>
             <li class="int"><a href="https://provo.edu/transportation/find-your-bus-route/">Bus Routes</a></li>
             <li class="int"><a href="https://springcreek.provo.edu/category/school-newsletter/">School Newsletter</a></li>
 		</ul>

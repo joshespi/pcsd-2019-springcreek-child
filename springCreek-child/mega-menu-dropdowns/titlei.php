@@ -4,8 +4,9 @@
 							<li class="int"><a href="https://springcreek.provo.edu/title-i/what-is-title-i/">What is Title I?</a></li>
 							<li class="pdf"><a href="https://springcreek.provo.edu/wp-content/uploads/2018/12/2016-17-Pamphlet-Annual-Title-I-Information-for-Parents.pdf">Annual Title I Information for Parents</a></li>
 							<li class="pdf"><a href="https://springcreek.provo.edu/wp-content/uploads/2018/12/SC-of-FY18-19-Annual-TI-Mtg-.pdf">Annual Title I Presentation</a></li>
+							<li class="ext"><a href="https://provo.edu/title-i/">District Title I</a></li>
 						</ul>
-						
+						<p>Title I Coordinator: Lucy Quintero (EvaluceQ@provo.edu)</p>
 				</div>
 				<div class="dropDownColumn">
 					<h3><img src="https://springcreek.provo.edu/wp-content/themes/pcsd-2019-theme/assets/icons/procedures1.svg" alt="" />Utah State Office of Education School Reports</h3>
