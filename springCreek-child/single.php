@@ -1,7 +1,7 @@
 <?php get_header(); ?>
 		<main id="contentArea">
 			<?php custom_breadcrumbs(); ?>
-			<section id="mainContent" class="single-post">
+			<section <?php if(is_page(1724)){ echo('lang="es"');}?>  id="mainContent" class="single-post">
 					<?php
 						$galleryArray = get_post_gallery_ids($post->ID);
 						if(have_posts()) :
