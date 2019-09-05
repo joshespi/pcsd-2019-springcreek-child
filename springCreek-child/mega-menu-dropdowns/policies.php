@@ -27,6 +27,7 @@
 				<div class="dropDownColumn">
 					<h3><img src="https://springcreek.provo.edu/wp-content/themes/pcsd-2019-theme/assets/icons/form.svg" alt="" />Forms</h3>
 						<ul>
+							<li class="int"><a href="https://springcreek.provo.edu/policies-forms/fee-waivers/">Fee Waiver</a></li>
 							<li class="pdf"><a href="https://provo.edu/wp-content/uploads/2018/08/08142018-3320-F1-NOTIFICATION-RECORD-OF-STUDENT-BULLYING-INCIDENT-OR-SUICIDE-THREAT.pdf">3320 Form 1 Bullying Notification</a></li>
 							<li class="pdf"><a href="https://provo.edu/wp-content/uploads/2018/08/08142018-3320-F2-Bullying-Harassment-Hazing-Retaliation-Incident-Reporting-Form.pdf">3320 Form 2 Bullying, Harassment, Hazing & Retaliation Incident Reporting</a></li>
 							
