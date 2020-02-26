@@ -37,5 +37,8 @@
             <li class="int"><a href="https://provo.edu/child-nutrition/special-diet-accommodations/">Special Diet Accommodations</a></li>
             <li class="int"><a href="https://provo.edu/child-nutrition/">Provo Child Nutrition Website</a></li>
 		</ul>
-	
+	<h3><img src="https://springcreek.provo.edu/wp-content/themes/pcsd-2019-theme/assets/icons/school-info.svg" alt="" />Media Center</h3>
+		<ul>
+			<li><a href="https://springcreek.provo.edu/school-information/media-center/">Media Center</a></li>
+		</ul>
 </div>

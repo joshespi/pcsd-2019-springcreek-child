@@ -1,6 +1,6 @@
 /*
  Theme Name:   Spring Creek Elem Child (PCSD 2019 Theme)
- Theme URI:    http://example.com/twenty-fifteen-child/
+ Theme URI:    https://springcreek.provo.edu/
  Description:  Spring Creek Child theme of the Provo School District 2019 Theme
  Author:       Josh Espinoza, Rob Francom, Shauna Sprunger
  Author URI:   https://tech.provo.edu
@@ -56,9 +56,10 @@ h1,h2,h3,h4 {
 	font-family: 'Roboto', sans-serif;
 	color: #02224f;
 	line-height: 1.05em;
+	
 }
 #mainContent h1 {margin-top: 10px;margin-bottom: 10px;}
-#mainContent h2,#mainContent h3,#mainContent h4 {margin-top: 30px;margin-bottom: 20px;}
+#mainContent h2,#mainContent h3,#mainContent h4 {margin-top: 30px;margin-bottom: 20px;clear: both;}
 h1{font-size: 3em;font-weight: 900;}
 h2{font-size: 2em;}
 h3{font-size: 1.5em;}
